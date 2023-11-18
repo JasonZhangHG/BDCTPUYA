@@ -1,13 +1,15 @@
-package com.example.flashlight;
+package com.flashlightapp.cocoe;
 
-import androidx.appcompat.app.AppCompatActivity;
-
+import android.content.Intent;
 import android.hardware.camera2.CameraAccessException;
 import android.hardware.camera2.CameraManager;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -30,6 +32,13 @@ public class MainActivity extends AppCompatActivity {
                 //falshLight code is here: when we on or off our switch by call this method
 
                 torch(isChecked);   //if on then boolean me true else false
+            }
+        });
+
+        findViewById(R.id.iv_help).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, HelpActivity.class));
             }
         });
     }

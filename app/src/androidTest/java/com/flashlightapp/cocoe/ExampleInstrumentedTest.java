@@ -1,4 +1,4 @@
-package com.example.flashlight;
+package com.flashlightapp.cocoe;
 
 import android.content.Context;
 

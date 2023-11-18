@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">FlashLight</string>
+    
+    
+    <string name="help">General</string>
+    <string name="help_privacy_heading">Privacy Info</string>
+    <string name="help_permissions_heading">Camera permission</string>
+    <string name="help_permissions_description">The camera permission is needed to control the camera flashlight. If this permission is not given, the app will not operate properly.</string>
+    <string name="help_intro">This is a very simple application to control your device\'s flashlight. Tap the button on the starting screen to toggle it on and off.</string>
+    
+    <string name="help_title">Help</string>
+    <string name="flashlight_title">Click anywhere on the screen to turn on the flashlight</string>
+    <string name="string_album">Album</string>
+    <string name="string_camera">Camera</string>
+    <string name="string_cancel">Cancel</string>
+
+    
+    
 </resources>
