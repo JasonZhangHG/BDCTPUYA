@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">FlashLight</string>
-    
+    <string name="app_name">MTOOEX PRO</string>
     
     <string name="help">General</string>
     <string name="help_privacy_heading">Privacy Info</string>
@@ -14,6 +13,5 @@
     <string name="string_camera">Camera</string>
     <string name="string_cancel">Cancel</string>
 
-    
-    
+
 </resources>
