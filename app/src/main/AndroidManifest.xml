@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.flashlightapp.cocoe">
+    package="com.flashlight.yoyoa">
     
     <uses-feature android:name="android.hardware.camera2" />
     
@@ -57,7 +57,7 @@
         
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.flashlightapp.cocoe.fileprovider"
+            android:authorities="com.flashlight.yoyoa.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
