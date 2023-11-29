@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa;
+package com.flashlight.youyoua;
 
 import android.content.Intent;
 import android.hardware.camera2.CameraAccessException;

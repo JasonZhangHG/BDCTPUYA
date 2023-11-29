@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa.http;
+package com.flashlight.youyoua.http;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa;
+package com.flashlight.youyoua;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -19,9 +19,9 @@ import android.widget.ProgressBar;
 
 import com.blankj.utilcode.util.PermissionUtils;
 import com.blankj.utilcode.util.UtilsTransActivity;
-import com.flashlight.yoyoa.dialog.AppConstant;
-import com.flashlight.yoyoa.dialog.SelectPicDialog;
-import com.flashlight.yoyoa.http.PermissionHelper;
+import com.flashlight.youyoua.dialog.AppConstant;
+import com.flashlight.youyoua.dialog.SelectPicDialog;
+import com.flashlight.youyoua.http.PermissionHelper;
 import com.gyf.immersionbar.ImmersionBar;
 
 import java.io.File;

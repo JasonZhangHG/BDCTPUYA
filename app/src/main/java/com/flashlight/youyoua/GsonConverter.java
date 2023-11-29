@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa;
+package com.flashlight.youyoua;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa.dialog;
+package com.flashlight.youyoua.dialog;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -15,8 +15,8 @@ import android.widget.TextView;
 
 import com.blankj.utilcode.util.PermissionUtils;
 import com.blankj.utilcode.util.UtilsTransActivity;
-import com.flashlight.yoyoa.R;
-import com.flashlight.yoyoa.http.PermissionHelper;
+import com.flashlight.youyoua.R;
+import com.flashlight.youyoua.http.PermissionHelper;
 
 import java.io.File;
 import java.util.List;
@@ -127,7 +127,7 @@ public class SelectPicDialog extends BaseFragmentDialog {
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         Uri mImageUri = Uri.fromFile(dstFile);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-            mImageUri = FileProvider.getUriForFile(activity, "com.flashlight.yoyoa.fileprovider", dstFile);
+            mImageUri = FileProvider.getUriForFile(activity, "com.flashlight.youyoua.fileprovider", dstFile);
         }
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
             intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);

@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa;
+package com.flashlight.youyoua;
 
 import org.junit.Test;
 

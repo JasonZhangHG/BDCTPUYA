@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa.http;
+package com.flashlight.youyoua.http;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -6,7 +6,7 @@ import android.os.Build;
 
 import com.blankj.utilcode.constant.PermissionConstants;
 import com.blankj.utilcode.util.PermissionUtils;
-import com.flashlight.yoyoa.CCApplication;
+import com.flashlight.youyoua.CCApplication;
 
 import androidx.core.content.ContextCompat;
 

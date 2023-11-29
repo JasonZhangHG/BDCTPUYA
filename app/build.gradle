@@ -6,7 +6,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.flashlight.yoyoa"
+        applicationId "com.flashlight.youyoua"
         minSdk 23
         targetSdk 33
         versionCode 1

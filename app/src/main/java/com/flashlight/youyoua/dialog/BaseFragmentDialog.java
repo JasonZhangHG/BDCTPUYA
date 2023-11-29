@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa.dialog;
+package com.flashlight.youyoua.dialog;
 
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.widget.RelativeLayout;
 
-import com.flashlight.yoyoa.R;
+import com.flashlight.youyoua.R;
 
 import java.util.List;
 

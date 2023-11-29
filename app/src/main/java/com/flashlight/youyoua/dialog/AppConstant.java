@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa.dialog;
+package com.flashlight.youyoua.dialog;
 
 
 public final class AppConstant {

@@ -1,4 +1,4 @@
-package com.flashlight.yoyoa.http;
+package com.flashlight.youyoua.http;
 
 import android.text.TextUtils;
 
