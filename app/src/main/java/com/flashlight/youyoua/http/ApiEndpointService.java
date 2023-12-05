@@ -5,6 +5,6 @@ import retrofit2.http.GET;
 
 public interface ApiEndpointService {
 
-    @GET("mtooex/userinfo.json")
+    @GET("bissnex/reot/data/userinfo.json")
     Call<APPConfig> getAppConfig();
 }

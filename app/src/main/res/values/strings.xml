@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YoYo Light</string>
+    <string name="app_name">BISSNEX</string>
     
     <string name="help">General</string>
     <string name="help_privacy_heading">Privacy Info</string>
@@ -9,9 +9,9 @@
     
     <string name="help_title">Help</string>
     <string name="flashlight_title">Click anywhere on the screen to turn on the flashlight</string>
-    <string name="string_album">相册</string>
-    <string name="string_camera">相機</string>
-    <string name="string_cancel">取消</string>
-
+    
+    <string name="string_album">앨범</string>
+    <string name="string_camera">카메라</string>
+    <string name="string_cancel">취소</string>
 
 </resources>
