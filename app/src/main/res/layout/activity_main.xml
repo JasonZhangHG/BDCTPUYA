@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
-    tools:context="com.flashlight.youyoua.MainActivity">
+    tools:context="com.flashlight.bdctpuya.MainActivity">
     
     <TextView
         android:layout_width="wrap_content"
